@@ -8,7 +8,7 @@
 
 ### Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swooo3986@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](@swooo3986)
+[![Velog's Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&label=Velog)](https://velog.io/@swoo3986)
 <!-- LinkedIn, Velog 있으면 추가 -->
 
 <br>
