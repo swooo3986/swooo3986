@@ -1,6 +1,6 @@
 # DokGoDie_김승우
 
-**`Algorithm Platinum / Security Researcher / Embedded Engineer / AI Hobbyist`**
+**`Algorithm Study / Security Researcher / Embedded Engineer / AI Hobbyist`**
 
 알고리즘·보안·임베디드 3축을 메인.
 취미로 AI(머신러닝·TinyML·체스 AI).
