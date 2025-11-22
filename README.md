@@ -13,7 +13,7 @@
 <br>
 
 ### 2026 Portfolio Roadmap (실시간)
-[![Roadmap](https://github.com/users/swooㅐ3986/projects/1/views/1/badge)](https://github.com/users/swoo3986/projects/1)
+[![Roadmap](https://github.com/users/swooo3986/projects/1/views/1/badge)](https://github.com/users/swoo3986/projects/1)
 
 ### Tech Stack & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
