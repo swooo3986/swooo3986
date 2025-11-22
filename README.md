@@ -35,11 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swooo3986&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swooo3986&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
-</p>
-
 ### Baekjoon Real-time Tier
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=swoo3986)](https://solved.ac/swoo3986/)
 
