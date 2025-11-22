@@ -1,4 +1,4 @@
-# Hi there, I'm Seung woo Kim
+# DokGoDie_김승우
 
 **`Algorithm Platinum / Security Researcher / Embedded Engineer / AI Hobbyist`**
 
