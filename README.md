@@ -2,9 +2,9 @@
 
 **`Algorithm Platinum / Security Researcher / Embedded Engineer / AI Hobbyist`**
 
-알고리즘·보안·임베디드 3축을 메인으로 죽어라 파면서,  
-취미로 AI(머신러닝·TinyML·체스 AI)도 즐기고 있습니다  
-현재 전자 체스판 + AI 체스 엔진 결합 프로젝트 진행 중
+알고리즘·보안·임베디드 3축을 메인.
+취미로 AI(머신러닝·TinyML·체스 AI).
+현재 전자 체스판 + AI 체스 엔진 결합 프로젝트 준비 중.
 
 ### Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swooo3986@gmail.com)
