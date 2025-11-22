@@ -12,8 +12,8 @@
 
 <br>
 
-### 2026 Portfolio Roadmap (실시간 진행률)
-[![2026 Portfolio Roadmap](https://github.com/users/swooo3986/projects/1/views/1/badge)](https://github.com/users/swooo3986/projects/1)
+### 2026 Portfolio Roadmap
+[📊 실시간 보드 보기](https://github.com/users/swooo3986/projects/1)
 
 
 ### Tech Stack & Tools
